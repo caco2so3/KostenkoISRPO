@@ -1,0 +1,26 @@
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\bin\Debug\Artamonov+Avdeev.exe.config
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\bin\Debug\Artamonov+Avdeev.exe
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\bin\Debug\Artamonov+Avdeev.pdb
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.csprojAssemblyReference.cache
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Maincraft.resources
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Properties.Resources.resources
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.csproj.GenerateResource.cache
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.csproj.CoreCompileInputs.cache
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.exe
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.pdb
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Avdeev.resources
+D:\bin\student\Artamonov+Avdeev\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Artamonov.resources
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\bin\Debug\Artamonov+Avdeev.exe.config
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\bin\Debug\Artamonov+Avdeev.exe
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\bin\Debug\Artamonov+Avdeev.pdb
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.csprojAssemblyReference.cache
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Artamonov.resources
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Avdeev.resources
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Maincraft.resources
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Properties.Resources.resources
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.csproj.GenerateResource.cache
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.csproj.CoreCompileInputs.cache
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.exe
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov+Avdeev.pdb
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Avdeevmenu.resources
+D:\bin\student\ИСРПО КОСТЕНКО\Artamonov+Avdeev\obj\Debug\Artamonov_Avdeev.Dev.resources
